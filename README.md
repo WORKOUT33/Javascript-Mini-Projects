@@ -39,7 +39,7 @@ Installation and Setup
 Clone the Repository
 
 # Clone this repository
-git clone https://github.com/yourusername/expanding-cards.git
+git clone https://github.com/workout33/expanding-cards.git
 
 # Navigate into the directory
 cd expanding-cards

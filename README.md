@@ -14,7 +14,7 @@ Lightweight and simple implementation.
 
 Demo
 
-A live demonstration of this project can be accessed at [your live link here, if applicable].
+A live demonstration of this project can be accessed.
 
 Technologies Used
 
